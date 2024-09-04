@@ -1,5 +1,4 @@
 # JOIN https://discord.gg/ZES5rjeFPS
-Sure thing! Here’s a revised README for Klockcraft with lots of emojis and updated version details:
 
 ---
 
