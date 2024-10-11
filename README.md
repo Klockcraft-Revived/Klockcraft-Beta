@@ -63,7 +63,7 @@ Klockcraft is licensed under the MIT License. See [LICENSE](LICENSE) for more de
 
 Got questions or feedback? Reach out to us:
 
-- Brady Trudel (btplayzx): [btplayzx](https://github.com/btplayzxgit3) 🛠️
+- (btplayzx): [btplayzx](https://github.com/btplayzxgit3) 🛠️
 - AR-Dev-1: [ar-dev-1](https://github.com/ar-dev-1) 🚀
 - RaveTek: [ravetek](https://github.com/ravetek) 🎨
 
